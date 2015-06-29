@@ -1,5 +1,5 @@
 # Processing_Products
-Processingで作った動画など
+Processingで作ったアニメーションなど
 
 # 使用先
 
